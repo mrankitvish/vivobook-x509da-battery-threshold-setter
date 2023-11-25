@@ -2,15 +2,12 @@
 
 ## Overview
 
-This repository contains a systemd service for setting the battery charge control end threshold on the Asus VivoBook 15 X509DA model running Ubuntu 22.04 LTS. The purpose is to automatically configure the battery threshold when the system starts.
+This repository contains a systemd service for setting the battery charge control end threshold on the ASUS VivoBook 15 X509DA model running Ubuntu 22.04 LTS. The purpose is to automatically configure the battery threshold when the system starts.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
